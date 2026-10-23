@@ -2,11 +2,11 @@
 
 # Maaz Muhammad
 
-**Senior full-stack engineer** · Lisbon
+**Founding Engineer & Acting CTO** at [Yourspeak](https://yourspeak.com) · Lisbon
 
-I help startups build, fix, and scale SaaS products — from the interface through the API, and into production.
+I lead the architecture of an AI-powered social platform and still build it: web, mobile, real-time systems, and the backend that keeps them up.
 
-Backup for [@maaz997](https://github.com/maaz997).
+Co-founder of Habrig. Backup for [@maaz997](https://github.com/maaz997).
 
 [Upwork](https://www.upwork.com/freelancers/maazmuhammad) · [LinkedIn](https://www.linkedin.com/in/maaz-muhammad-22758117b/)
 
@@ -16,24 +16,32 @@ Backup for [@maaz997](https://github.com/maaz997).
 
 ### Who I am
 
-Six-plus years shipping software end to end. A lot of that has been a large social and eCommerce platform, across the frontend, backend, integrations, and deployment. I've also worked on healthcare, restaurant products, and AI automation.
+Founding engineer and acting CTO at Yourspeak. I own the architecture and stay in the codebase: Laravel services, React and Next.js, React Native, and the AI features on top.
 
-I take a problem through to a working release: scope it, build it, and leave the codebase in better shape than I found it.
+That work covers messaging, video, media streaming, search, and recommendations, plus Redis, Elasticsearch, microservices, Docker, and CI/CD.
+
+I also co-founded Habrig, a software partner for startups that need a product built, AI wired in, and the system scaled. The same kind of work has been on Upwork since 2019, including healthcare platforms and mobile apps.
 
 ### What I work on
 
 | | |
 | --- | --- |
-| **SaaS** | MVPs, dashboards, customer portals, subscriptions, and the business rules underneath |
-| **Full stack** | Next.js, React, TypeScript, Node.js, Laravel, PostgreSQL |
-| **Mobile** | React Native and Expo |
-| **Integrations** | APIs, auth, payments, and third-party services |
-| **AI** | LLM features, agents, and automation when they earn their place |
-| **Production** | Debugging, performance, Docker, and CI/CD |
+| **Product** | Social and community platforms, SaaS, and features that have to hold up in production |
+| **Full stack** | React, Next.js, TypeScript, React Native, Expo, Laravel, Node.js |
+| **Real-time** | Messaging, video calling, and media streaming |
+| **AI** | LLM integrations, LangChain, intelligent search, and recommendation engines |
+| **Backend** | APIs, microservices, Redis, Elasticsearch, and relational data models |
+| **Production** | Cloud infrastructure, Docker, CI/CD, performance, and reliability |
 
----
+### Alongside Yourspeak
+
+- **Habrig** — co-founder. End-to-end builds for startups: full stack, AI integrations, automation, and cloud architecture.
+- **Upwork** — freelance since 2019. Healthcare systems for Talamus and Clairways, and the Laundrycare mobile app in React Native.
+- **Earlier** — technical lead and senior engineer at Yourspeak, and co-founder at Code Minimalist.
 
 <div align="center">
+
+National University of Computer and Emerging Sciences
 
 [Upwork](https://www.upwork.com/freelancers/maazmuhammad) · [LinkedIn](https://www.linkedin.com/in/maaz-muhammad-22758117b/)
 
