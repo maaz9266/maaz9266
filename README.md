@@ -6,6 +6,10 @@
 
 I build products across the web, mobile, and backend — from the interface to the services that ship it.
 
+Backup for [@maaz997](https://github.com/maaz997).
+
+[Upwork](https://www.upwork.com/freelancers/maazmuhammad) · [LinkedIn](https://www.linkedin.com/in/maaz-muhammad-22758117b/)
+
 </div>
 
 ---
@@ -24,11 +28,3 @@ I build products across the web, mobile, and backend — from the interface to t
 ### Right now
 
 Shipping product work end to end, and keeping this profile as the home for what I build next.
-
-<div align="center">
-
-<br>
-
-[Repositories](https://github.com/maaz9266?tab=repositories) · [@maaz9266](https://github.com/maaz9266)
-
-</div>
